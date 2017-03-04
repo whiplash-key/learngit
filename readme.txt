@@ -5,3 +5,4 @@ Git tracks changes of files
 My stupid boss
 Creating a new branch is quick And simple
 Conflict resolution
+普通模式
